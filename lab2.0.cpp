@@ -19,7 +19,11 @@ int main()
 
 	cout << endl;
 
+<<<<<<< HEAD
 	cout << "z1 = " << z1 << endl;//first change 
+=======
+	cout << "z1 = " << z1 << endl;//special for test 
+>>>>>>> testbranch1
 	cout << "z2 = " << z2 << endl;
 
 	cin.get();
