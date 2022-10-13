@@ -14,7 +14,7 @@ int main()
 	double z2; // результат другого виразу
 
 	cout << "x = "; cin >> x;//second change 
-	z1 = 1 - 1 / 4. * sin(2 * x) * sin(2 * x) + cos(2 * x);
+	z1 = 1 - 1 / 4. * sin(2 * x) * sin(2 * x) + cos(2 * x);//перший вираз
 	z2 = cos(x) * cos(x) + cos(x) * cos(x) * cos(x) * cos(x);
 
 	cout << endl;
